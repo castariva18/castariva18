@@ -13,8 +13,8 @@ Hi, I'm Tengku Belmiro.
 <br />
 
 <a href="https://github.com/castariva18/castariva18">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castariva18&theme=cobalt&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castariva18&theme=default&hide_langs_below=1" />
 </a>
 <a href="https://github.com/castariva18/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=castariva18&show_icons=true&theme=radical&line_height=27" alt="Miro github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=castariva18&show_icons=true&theme=default&line_height=27" alt="Miro github stats" />
 </a> 
