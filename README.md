@@ -6,8 +6,6 @@
 
 <br />
 
-Hi, I'm Tengku Belmiro.
-
 - 💬 Ask me about anything [here](https://github.com/castariva18/castariva18/issues)
 
 <br />
