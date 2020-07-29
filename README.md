@@ -11,7 +11,7 @@
 <br />
 
 <a href="https://github.com/castariva18/castariva18">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castariva18&hide=css&theme=default&line_height=34.5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castariva18&hide=css&hide=html&hide=php&theme=default&line_height=34.5" />
 </a>
 <a href="https://github.com/castariva18/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=castariva18&show_icons=true&theme=default&line_height=34.5" />
