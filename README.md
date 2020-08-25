@@ -10,10 +10,5 @@
 
 <br />
 
-<a href="https://github.com/castariva18/castariva18">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=castariva18&hide=html,php,css&layout=compact&theme=default&line_height=40" />
-</a>
-<br />
-<a href="https://github.com/castariva18/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=castariva18&show_icons=true&theme=default&line_height=34.5" />
-</a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
