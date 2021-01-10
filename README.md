@@ -1,10 +1,18 @@
 # Hi there, I'm [Miro!](https://castariva18.github.io/)  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<br />
+I'm indonesian, i'm interested in mobile application development and still learn every day 
+<br>
+ <img align="right" alt="GIF" src="https://github.com/castariva18/castariva18/blob/master/code.gif?raw=true" width="500" height="320" />
+ 
+<h3>Talking about Personal Stuffs:</h3>
 
 - 👨🏽‍💻 I’m currently working on something cool
 
 - 🌱 I’m currently learning Something good
+
+- 🎹🎮  I like music and game.
+
+- 📱 Check out my [playstore](https://tinyurl.com/suncodeid)
 
 - 💬 Ask me about anything [here](https://github.com/castariva18/castariva18/issues)
 
