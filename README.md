@@ -47,31 +47,31 @@ XML          7 mins          ░░░░░░░░░░░░░░░░░
 <br/>
 <h3>Connect with me:</h3>
 <a href="https://discord.gg/bhPzjwR">
-  <img align="left" alt="Clown Discord" width="25px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />
+  <img align="left" alt="Clown Discord" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />
 </a>
 <a href="https://www.facebook.com/tengku.belmiro">
-  <img align="left" alt="tengku.belmiro" width="25px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png" />
+  <img align="left" alt="tengku.belmiro" width="30px" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png" />
 </a>
 <a href="https://www.linkedin.com/in/tengku-belmiro-860a831a0/">
-  <img align="left" alt="tengku-belmiro" width="25px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
+  <img align="left" alt="tengku-belmiro" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png" />
 </a>
 <a href="https://twitter.com/tengku_belmiro">
-  <img align="left" alt="tengku_belmiro" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />
+  <img align="left" alt="tengku_belmiro" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" />
 </a>
 <a href="https://www.instagram.com/its_meerro/">
-  <img align="left" alt="@its_meerro" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" />
+  <img align="left" alt="@its_meerro" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" />
 </a>
 <a href="https://dribbble.com/castariva18">
-  <img align="left" alt="castariva18" width="25px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/89-dribbble-512.png" />
+  <img align="left" alt="castariva18" width="30px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/89-dribbble-512.png" />
 </a>
 <a href="https://www.reddit.com/user/castariva18">
-  <img align="left" alt="castariva18" width="25px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-512.png" />
+  <img align="left" alt="castariva18" width="30px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_reddit-512.png" />
 </a>
 <a href="mailto:tengku13elmiro@gmail.com">
-  <img align="left" alt="tengku13elmiro" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-256.png" />
+  <img align="left" alt="tengku13elmiro" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-256.png" />
 </a>
 <a href="https://open.spotify.com/user/tqmm5hzox0ia9ss36x0l24tgs">
-  <img align="left" alt="Miro" width="25px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-512.png" />
+  <img align="left" alt="Miro" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-512.png" />
 </a>
 
 
