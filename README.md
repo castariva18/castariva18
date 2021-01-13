@@ -31,9 +31,10 @@ Java         8 hrs 1 min     ██████░░░░░░░░░░░
 <h3>Languages and Tools:</h3>
   <img align="left" alt="Java" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" />
   <img align="left" alt="Java" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/kotlin-2038873-1720086.png" />
-  <img align="left" alt="Java" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
+  <img align="left" alt="Java" width="30px" src="https://avatars0.githubusercontent.com/u/1609975?s=280&v=4" />
   <img align="left" alt="Java" width="30px" src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" />
   <img align="left" alt="Java" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/php-2038871-1720084.png" />
+  <img align="left" alt="Java" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
   <img align="left" alt="Java" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-128.png" />
   <img align="left" alt="Java" width="30px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />
   <img align="left" alt="Java" width="30px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
