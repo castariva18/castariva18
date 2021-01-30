@@ -6,7 +6,7 @@ I'm indonesian, i'm interested in mobile application development and still learn
  
 <h3>Talking about Personal Stuffs:</h3>
 
-- 👨🏽‍💻 I’m currently working on something cool
+- 👨🏽‍💻 I'm currently working on a cool place as a Mobile App developer
 
 - 🌱 I’m currently learning Something good
 
