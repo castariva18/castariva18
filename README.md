@@ -31,14 +31,6 @@ Kotlin   5 mins          ░░░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <br/>
-<h3>Languages:</h3>
-  <img align="left" alt="Java" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" />
-  <img align="left" alt="Java" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/kotlin-2038873-1720086.png" />
-  <img align="left" alt="Java" width="30px" src="https://avatars0.githubusercontent.com/u/1609975?s=280&v=4" />
-  <img align="left" alt="Java" width="30px" src="https://cdn0.iconfinder.com/data/icons/social-network-7/50/22-512.png" />
-  <img align="left" alt="Java" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/php-2038871-1720084.png" />
-  <img align="left" alt="Java" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/187_Js_logo_logos-512.png" />
-<br>
 <h3>Tools:</h3>
   <img align="left" alt="Java" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
   <img align="left" alt="Java" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-128.png" />
