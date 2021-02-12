@@ -2,7 +2,7 @@
 
 I'm indonesian, i'm interested in mobile application development and still learn every day 
 <br>
- <img align="right" alt="GIF" src="https://github.com/castariva18/castariva18/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/castariva18/castariva18/blob/master/another.gif?raw=true" width="350" height="350" />
  
 <h3>Talking about Personal Stuffs:</h3>
 
