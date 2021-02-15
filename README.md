@@ -22,11 +22,11 @@ I'm indonesian, i'm interested in mobile application development and still learn
 
 <!--START_SECTION:waka-->
 ```text
-XML      11 hrs 45 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.12 % 
-Kotlin   10 hrs 47 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.07 % 
-Dart     10 hrs 37 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.71 % 
-Java     10 hrs 8 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.67 % 
-CSS      1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Kotlin   11 hrs 58 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.03 % 
+Dart     10 hrs 37 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.22 % 
+XML      10 hrs 32 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.03 % 
+Java     10 hrs 21 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.67 % 
+CSS      2 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 ```
 <!--END_SECTION:waka-->
 
