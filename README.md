@@ -66,10 +66,10 @@ XML      2 mins          ░░░░░░░░░░░░░░░░░░�
 <a href="mailto:tengku13elmiro@gmail.com">
   <img align="left" alt="tengku13elmiro" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-256.png" />
 </a>
-<a href="https://open.spotify.com/user/tqmm5hzox0ia9ss36x0l24tgs">
+<!--<a href="https://open.spotify.com/user/tqmm5hzox0ia9ss36x0l24tgs">
   <img align="left" alt="Miro" width="30px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-512.png" />
 </a>
 <a href="https://medium.com/@tengku13elmiro">
   <img align="left" alt="Miro" width="30px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Medium_glyph_svg-512.png" />
-</a>
+</a>-->
 
