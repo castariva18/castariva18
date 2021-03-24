@@ -1,6 +1,6 @@
-# Hi there, I'm [Miro!](https://castariva18.github.io/)  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<h1> Hi there, I'm <a href="https://castariva18.github.io/">Miro!</a><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
-I'm indonesian, i'm interested in mobile application development and still learn every day 
+<p>I'm indonesian, i'm interested in mobile application development and still learn every day </p>
 <br>
  <img align="right" alt="GIF" src="https://github.com/castariva18/castariva18/blob/master/animation.gif?raw=true" width="350" height="350" />
  
