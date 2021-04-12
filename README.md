@@ -2,9 +2,9 @@
 
 <p> I'm Tengku Belmiro Ramadhani but you can call me Miro, I'm 22, I live in Bandung city, I'm interested in mobile application development and still learn every day</p>
 <br>
- <img align="right" alt="GIF" src="https://github.com/castariva18/castariva18/blob/master/animation.gif?raw=true" width="350" height="350" />
+ <img align="right" alt="GIF" src="https://github.com/castariva18/castariva18/blob/master/animation.gif?raw=true" width="300" height="300" />
  
-<h3>Talking about Personal Stuffs:</h3>
+<h4>Talking about Personal Stuffs</h4>
 
 - 👨🏽‍💻 I'm currently working on a cool place
 
@@ -17,7 +17,8 @@
 - 💬 Ask me about anything [here](https://github.com/castariva18/castariva18/issues)
 
 <br />
-<h3>Development activities:</h3>
+<details>
+<summary>Development activities</summary>
 
 
 <!--START_SECTION:waka-->
@@ -29,9 +30,9 @@ XML          2 hrs 36 mins   █▓░░░░░░░░░░░░░░░
 Dart         1 hr 22 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
 ```
 <!--END_SECTION:waka-->
-
+</details>
 <br/>
-<h3>Tools:</h3>
+<h4>Tools:</h4>
   <img align="left" alt="Java" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
   <img align="left" alt="Java" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-128.png" />
   <img align="left" alt="Java" width="30px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />
@@ -41,7 +42,7 @@ Dart         1 hr 22 mins    █░░░░░░░░░░░░░░░░
   <img align="left" alt="Java" width="30px" src="https://cdn0.iconfinder.com/data/icons/logos-and-brands-adobe/512/3_Xd_Adobe_logo_logos-512.png" />
   <img align="left" alt="Java" width="30px" src="https://miro.medium.com/max/670/0*UTBrDcrJ6SbePBzR" />
 <br/>
-<h3>Connect with me:</h3>
+<h4>Connect with me:</h4>
 <a href="https://discord.gg/bhPzjwR">
   <img align="left" alt="Clown Discord" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" />
 </a>
