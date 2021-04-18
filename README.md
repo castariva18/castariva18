@@ -23,11 +23,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java         28 hrs 8 mins   ████████████▓░░░░░░░░░░░░   51.30 % 
-TypeScript   9 hrs 9 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.69 % 
-HTML         7 hrs 26 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-JavaScript   5 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-PHP          4 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Java         28 hrs 10 mins  █████████████░░░░░░░░░░░░   51.55 % 
+Kotlin       8 hrs 56 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+HTML         7 hrs 26 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+JavaScript   5 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+PHP          4 hrs 34 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 ```
 <!--END_SECTION:waka-->
 </details>
