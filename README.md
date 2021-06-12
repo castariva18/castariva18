@@ -6,7 +6,7 @@
  
 <h4>Talking about Personal Stuffs</h4>
 
-- 👨🏽‍💻 I'm currently working on a cool place
+- 👨🏽‍💻 I'm currently working in a cool place
 
 - 🌱 I’m currently learning Something good
 
