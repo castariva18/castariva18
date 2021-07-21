@@ -6,11 +6,11 @@
  
 <h4>Talking about Personal Stuffs</h4>
 
+- 🌱 I'm currently learning everything related to mobile app development
+
 - 👨🏽‍💻 I'm currently working in a cool place
 
-- 🌱 I’m currently learning Something good
-
-- 🎹🎮  I like music and game.
+- 🎸🎮  I like music and game.
 
 - 📱 Check out my [playstore](https://tinyurl.com/suncodeid)
 
@@ -33,14 +33,28 @@ Java     18 mins         ▒░░░░░░░░░░░░░░░░░�
 </details>
 <br/>
 <h4>Tools:</h4>
+<a href="https://flutter.dev/">
   <img align="left" alt="Flutter" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
-  <img align="left" alt="PostMan" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/postman-3521648-2945092.png" />
+</a>
+<a href="https://www.postman.com/"> 
+ <img align="left" alt="PostMan" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/postman-3521648-2945092.png" />
+</a>
+<a href="https://firebase.google.com/"> 
   <img align="left" alt="Firebase" width="30px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />
+</a>
+<a href="https://developer.android.com/studio?gclid=CjwKCAjwi9-HBhACEiwAPzUhHJbmHXyDVVDmdqjdQ5nNTHg56qLE7JxHf7D-rPTMEhCGK6lp4GKgKhoCyGcQAvD_BwE&gclsrc=aw.ds"> 
   <img align="left" alt="AndroidStudio" width="30px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
-  <img align="left" alt="VisualStudioCode" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
+</a>
+<a href="https://code.visualstudio.com/"> 
+<img align="left" alt="VisualStudioCode" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
+</a>
+<a href="https://www.adobe.com/">
   <img align="left" alt="Photoshop" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/23_Photoshop_Adobe_logo_logos-256.png" />
   <img align="left" alt="Ilustrator" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_adobe_illustrator-512.png" />
+ </a>
+<a href="https://www.figma.com/"> 
   <img align="left" alt="Figma" width="30px" src="https://miro.medium.com/max/670/0*UTBrDcrJ6SbePBzR" />
+ </a>
 <br/>
 <h4>Connect with me:</h4>
 <a href="https://discord.gg/bhPzjwR">
