@@ -23,11 +23,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Dart             19 hrs 58 mins  ███████████░░░░░░░░░░░░░░   43.40 % 
-Kotlin           6 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-PHP              6 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Blade Template   5 hrs 31 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Java             3 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Dart             23 hrs 19 mins  ███████████▓░░░░░░░░░░░░░   47.24 % 
+Kotlin           6 hrs 45 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+PHP              6 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Blade Template   5 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+Java             3 hrs 52 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
 ```
 <!--END_SECTION:waka-->
 </details>
