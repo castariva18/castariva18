@@ -23,8 +23,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Dart   54 hrs 39 mins  █████████████████████████   99.78 % 
-YAML   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Dart   51 hrs 6 mins   ████████████████████████▓   99.13 % 
+YAML   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 ```
 <!--END_SECTION:waka-->
 </details>
