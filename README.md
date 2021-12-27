@@ -23,10 +23,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Dart         38 hrs 41 mins  ██████████████████░░░░░░░   72.03 % 
-Kotlin       5 hrs 55 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-JavaScript   4 hrs 57 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-YAML         4 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Dart         39 hrs 49 mins  ███████████████████▒░░░░░   77.86 % 
+Kotlin       5 hrs 55 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+JavaScript   4 hrs 57 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+YAML         25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 <!--END_SECTION:waka-->
 </details>
