@@ -23,10 +23,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Dart         27 hrs 41 mins  ██████████████▓░░░░░░░░░░   58.66 % 
-TypeScript   15 hrs 51 mins  ████████▒░░░░░░░░░░░░░░░░   33.60 % 
-HTML         3 hrs 27 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-JSON         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Dart         28 hrs 18 mins  ███████████████░░░░░░░░░░   59.60 % 
+TypeScript   15 hrs 3 mins   ████████░░░░░░░░░░░░░░░░░   31.69 % 
+HTML         4 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 <!--END_SECTION:waka-->
 </details>
