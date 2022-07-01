@@ -41,7 +41,10 @@ JSON         1 hr 36 mins    ▓░░░░░░░░░░░░░░░░
 </a>
 <a href="https://angular.io/">
   <img align="left" alt="Angular" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" />
-</a> 
+</a>
+<a href="https://reactjs.org/">
+  <img align="left" alt="React" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" />
+ </a>
 <a href="https://www.postman.com/"> 
  <img align="left" alt="PostMan" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/postman-3521648-2945092.png" />
 </a>
@@ -54,9 +57,6 @@ JSON         1 hr 36 mins    ▓░░░░░░░░░░░░░░░░
 <a href="https://code.visualstudio.com/"> 
 <img align="left" alt="VisualStudioCode" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
 </a>
-<a href="https://www.adobe.com/">
-  <img align="left" alt="Ilustrator" width="30px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_adobe_illustrator-512.png" />
- </a>
 <a href="https://www.figma.com/"> 
   <img align="left" alt="Figma" width="30px" src="https://miro.medium.com/max/670/0*UTBrDcrJ6SbePBzR" />
  </a>
