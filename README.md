@@ -48,8 +48,8 @@ CSS          15 mins         ▒░░░░░░░░░░░░░░░░
 <a href="https://www.postman.com/"> 
  <img align="left" alt="PostMan" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/postman-3521648-2945092.png" />
 </a>
-<a href="https://firebase.google.com/"> 
-  <img align="left" alt="Firebase" width="30px" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />
+<a href="https://nextjs.org/"> 
+  <img align="left" alt="NextJS" width="30px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" />
 </a>
 <a href="https://developer.android.com/studio?gclid=CjwKCAjwi9-HBhACEiwAPzUhHJbmHXyDVVDmdqjdQ5nNTHg56qLE7JxHf7D-rPTMEhCGK6lp4GKgKhoCyGcQAvD_BwE&gclsrc=aw.ds"> 
   <img align="left" alt="AndroidStudio" width="30px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
