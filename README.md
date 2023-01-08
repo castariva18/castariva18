@@ -1,11 +1,9 @@
-<h1> Hi there, I'm <a href="https://miro.vercel.app/">Miro!</a></h1>
+<h1>Hi there, I'm <a href="https://miro.vercel.app/">Miro!</a></h1>
 
-<p> My name is Tengku Belmiro Ramadhani but you can call me Miro, my internet nickname is castariva18, I'm 24, I live in Bandung city, I'm interested in mobile application & frontend development and I learn every day</p>
-<br>
- <img align="right" alt="GIF" src="https://github.com/castariva18/castariva18/blob/master/animation.gif?raw=true" width="300" height="300" />
+<p>My name is T. Belmiro Ramadhani but you can call me Miro, I'm a Mobile & Frontend Developer based in Bandung, Indonesia. I'm interested in mobile application and frontend development.</p>
+<img align="right" alt="GIF" src="https://github.com/castariva18/castariva18/blob/master/animation.gif?raw=true" width="300" height="300" />
  
-<h4>Talking about Personal Stuffs</h4>
-
+<h3>Talking about Personal Stuffs</h3>
 - 🌱 I'm currently learning everything related to mobile app development
 
 - 👨🏽‍💻 I'm currently working in a cool place
@@ -34,7 +32,6 @@ YAML         11 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 </details>
-<br/>
 <h4>Tools:</h4>
 <a href="https://flutter.dev/">
   <img align="left" alt="Flutter" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
