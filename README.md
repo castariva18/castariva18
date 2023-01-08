@@ -1,6 +1,6 @@
 <h1> Hi there, I'm <a href="https://miro.vercel.app/">Miro!</a></h1>
 
-<p> My name is Tengku Belmiro Ramadhani but you can call me Miro, my internet nickname is castariva18, I'm 23, I live in Bandung city, I'm interested in mobile application development and I learn every day</p>
+<p> My name is Tengku Belmiro Ramadhani but you can call me Miro, my internet nickname is castariva18, I'm 24, I live in Bandung city, I'm interested in mobile application & frontend development and I learn every day</p>
 <br>
  <img align="right" alt="GIF" src="https://github.com/castariva18/castariva18/blob/master/animation.gif?raw=true" width="300" height="300" />
  
