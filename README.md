@@ -42,8 +42,8 @@ HTML         47 mins         ▓░░░░░░░░░░░░░░░░
 <a href="https://reactjs.org/">
   <img align="left" alt="React" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" />
  </a>
-<a href="https://www.postman.com/"> 
- <img align="left" alt="PostMan" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/postman-3521648-2945092.png" />
+<a href="https://developer.android.com/"> 
+ <img align="left" alt="PostMan" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-256.png" />
 </a>
 <a href="https://nextjs.org/"> 
   <img align="left" alt="NextJS" width="30px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_1080,q_100,w_1080/v1/gcs/platform-data-dsc/events/nextjs-boilerplate-logo.png" />
