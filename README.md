@@ -4,16 +4,18 @@
 <img align="right" alt="GIF" src="https://github.com/castariva18/castariva18/blob/master/animation.gif?raw=true" width="300" height="300" />
  
 <h3>Talking about Personal Stuffs</h3>
+
 - 🌱 I'm currently learning everything related to mobile app development
 
 - 👨🏽‍💻 I'm currently working in a cool place
 
 - 🎸🎮  I like music and game.
 
-- 📱 Check out my [playstore](https://tinyurl.com/suncodeid)
+- 📱 Check out my playstore [suncodeid](https://tinyurl.com/suncodeid) and [sandhyaacala](https://play.google.com/store/apps/dev?id=6551702495617706443)
 
 - 💬 Ask me about anything [here](https://github.com/castariva18/castariva18/issues)
 
+- ⚡️ Fun fact: I solved the problem by taking a quick nap and restarting
 <br />
 <details>
 <summary>Development activities</summary>
