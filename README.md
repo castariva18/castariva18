@@ -1,15 +1,11 @@
-<h1>Hi there, I'm <a href="https://miro.vercel.app/">Miro!</a></h1>
+<h1 align="center">Hi there, I'm <a href="https://miro.vercel.app/">Miro!</a></h1>
 
 <p>My name is T. Belmiro Ramadhani but you can call me Miro, I'm a Mobile & Frontend Developer based in Bandung, Indonesia. I'm interested in mobile application and frontend development.</p>
 <img align="right" alt="GIF" src="https://github.com/castariva18/castariva18/blob/master/animation.gif?raw=true" width="300" height="300" />
  
 <h3>Talking about Personal Stuffs</h3>
 
-- 🌱 I'm currently learning everything related to mobile app development
-
-- 👨🏽‍💻 I'm currently working in a cool place
-
-- 🎸🎮  I like music and game.
+- 🌱 Currently learning related to **mobile app** and **frontend** development
 
 - 📱 Check out my playstore [suncodeid](https://tinyurl.com/suncodeid) and [sandhyaacala](https://play.google.com/store/apps/dev?id=6551702495617706443)
 
