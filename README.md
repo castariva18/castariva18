@@ -13,18 +13,7 @@
 
 - ⚡️ Fun fact: I solved the problem by taking a quick nap and restarting
 <br />
-<details>
-<summary>Development activities</summary>
 
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-</details>
 <h4>Tools:</h4>
 <a href="https://flutter.dev/">
   <img align="left" alt="Flutter" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
