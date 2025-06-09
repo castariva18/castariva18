@@ -22,7 +22,7 @@
   <img align="left" alt="Angular" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" />
 </a>
 <a href="https://reactjs.org/">
-  <img align="left" alt="React" width="30px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-256.png" />
+  <img align="left" alt="React" width="30px" src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" />
  </a>
 <a href="https://developer.android.com/"> 
  <img align="left" alt="PostMan" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-256.png" />
