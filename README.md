@@ -22,7 +22,7 @@
   <img align="left" alt="Angular" width="30px" src="https://cdn.iconscout.com/icon/free/png-64/angular-3-226070.png" />
 </a>
 <a href="https://reactjs.org/">
-  <img align="left" alt="React" width="30px" src="https://camo.githubusercontent.com/0fcf9befefc83e207ed36bdeb3ac4f6c99132571ddb0f44e7a6ac872b0723352/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" />
+  <img align="left" alt="React" width="30px" src="https://miro.medium.com/1*m50l56cHyMEzcXVcbSwXGw.png" />
  </a>
 <a href="https://developer.android.com/"> 
  <img align="left" alt="PostMan" width="30px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/android-256.png" />
@@ -34,7 +34,7 @@
   <img align="left" alt="AndroidStudio" width="30px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
 </a>
 <a href="https://code.visualstudio.com/"> 
-<img align="left" alt="VisualStudioCode" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
+<img align="left" alt="VisualStudioCode" width="30px" src="https://freebsdfoundation.org/wp-content/uploads/2024/05/vscode-logo.png" />
 </a>
 <a href="https://www.figma.com/"> 
   <img align="left" alt="Figma" width="30px" src="https://miro.medium.com/max/670/0*UTBrDcrJ6SbePBzR" />
